@@ -1,0 +1,9 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\bin\Debug\ExceptionFilters.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\bin\Debug\ExceptionFilters.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\bin\Debug\ExceptionFilters.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\obj\Debug\ExceptionFilters.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\obj\Debug\ExceptionFilters.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Start\ExpertDotNet\ExceptionFilters\obj\Debug\ExceptionFilters.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Finish\ExpertDotNet\ExceptionFilters\bin\Debug\ExceptionFilters.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Finish\ExpertDotNet\ExceptionFilters\obj\Debug\ExceptionFilters.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.8\Finish\ExpertDotNet\ExceptionFilters\obj\Debug\ExceptionFilters.pdb

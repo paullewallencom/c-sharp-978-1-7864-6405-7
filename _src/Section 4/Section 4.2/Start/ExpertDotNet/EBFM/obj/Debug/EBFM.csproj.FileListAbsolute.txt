@@ -1,0 +1,2 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.2\Start\ExpertDotNet\EBFM\bin\Debug\EBFM.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.2\Finish\ExpertDotNet\EBFM\bin\Debug\EBFM.exe.config

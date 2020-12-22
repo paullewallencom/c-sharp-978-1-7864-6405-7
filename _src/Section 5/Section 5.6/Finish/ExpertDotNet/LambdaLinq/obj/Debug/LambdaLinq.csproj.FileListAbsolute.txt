@@ -1,0 +1,6 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\bin\Debug\LambdaLinq.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\bin\Debug\LambdaLinq.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\bin\Debug\LambdaLinq.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\obj\Debug\LambdaLinq.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\obj\Debug\LambdaLinq.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.6\Finish\ExpertDotNet\LambdaLinq\obj\Debug\LambdaLinq.pdb

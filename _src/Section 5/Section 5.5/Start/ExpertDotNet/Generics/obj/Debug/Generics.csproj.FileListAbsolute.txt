@@ -1,0 +1,9 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\bin\Debug\Generics.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\bin\Debug\Generics.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\bin\Debug\Generics.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\obj\Debug\Generics.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\obj\Debug\Generics.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Finish\ExpertDotNet\Generics\obj\Debug\Generics.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Start\ExpertDotNet\Generics\bin\Debug\Generics.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Start\ExpertDotNet\Generics\obj\Debug\Generics.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 5\Section 5.5\Start\ExpertDotNet\Generics\obj\Debug\Generics.pdb

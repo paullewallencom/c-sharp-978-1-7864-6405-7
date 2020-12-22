@@ -1,0 +1,10 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Debugging\ExpertDotNet\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\bin\Debug\Debugging.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\obj\Debug\Debugging.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\obj\Debug\Debugging.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Finish\ExpertDotNet\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Start\ExpertDotNet\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Start\ExpertDotNet\Debugging\obj\Debug\Debugging.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.3\Start\ExpertDotNet\Debugging\obj\Debug\Debugging.pdb

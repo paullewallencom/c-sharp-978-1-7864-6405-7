@@ -1,0 +1,6 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\bin\Debug\IndexInitializers.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\bin\Debug\IndexInitializers.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\bin\Debug\IndexInitializers.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\obj\Debug\IndexInitializers.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\obj\Debug\IndexInitializers.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.7\Start\ExpertDotNet\IndexInitializers\obj\Debug\IndexInitializers.pdb

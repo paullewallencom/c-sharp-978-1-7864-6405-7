@@ -1,0 +1,9 @@
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\bin\Debug\Refactoring.exe.config
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\obj\Debug\Refactoring.csprojResolveAssemblyReference.cache
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\bin\Debug\Refactoring.exe
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\bin\Debug\Refactoring.pdb
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\obj\Debug\Refactoring.exe
+c:\users\prestige-mac\documents\visual studio 2013\Projects\ExpertDotNet\Refactoring\obj\Debug\Refactoring.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.2\Finish\ExpertDotNet\Refactoring\bin\Debug\Refactoring.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.2\Finish\ExpertDotNet\Refactoring\obj\Debug\Refactoring.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.2\Finish\ExpertDotNet\Refactoring\obj\Debug\Refactoring.pdb

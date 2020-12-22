@@ -1,0 +1,9 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\bin\Debug\nameOf.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\bin\Debug\nameOf.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\bin\Debug\nameOf.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\obj\Debug\nameOf.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\obj\Debug\nameOf.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Start\ExpertDotNet\nameOf\obj\Debug\nameOf.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Finish\ExpertDotNet\nameOf\bin\Debug\nameOf.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Finish\ExpertDotNet\nameOf\obj\Debug\nameOf.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.6\Finish\ExpertDotNet\nameOf\obj\Debug\nameOf.pdb

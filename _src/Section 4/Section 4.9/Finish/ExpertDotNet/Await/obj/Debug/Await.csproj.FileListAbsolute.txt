@@ -1,0 +1,7 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Start\ExpertDotNet\Await\bin\Debug\Await.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\bin\Debug\Await.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\bin\Debug\Await.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\bin\Debug\Await.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\obj\Debug\Await.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\obj\Debug\Await.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.9\Finish\ExpertDotNet\Await\obj\Debug\Await.pdb

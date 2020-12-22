@@ -1,0 +1,7 @@
+c:\users\reynald\documents\visual studio 2015\Projects\ExpertDotNet\LightBulb\bin\Debug\LightBulb.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\bin\Debug\LightBulb.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\bin\Debug\LightBulb.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\bin\Debug\LightBulb.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\obj\Debug\LightBulb.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\obj\Debug\LightBulb.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 3.1\Start\ExpertDotNet\LightBulb\obj\Debug\LightBulb.pdb

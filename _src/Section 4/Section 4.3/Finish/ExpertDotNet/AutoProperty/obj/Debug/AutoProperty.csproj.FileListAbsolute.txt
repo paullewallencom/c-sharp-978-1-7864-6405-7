@@ -1,0 +1,7 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Start\ExpertDotNet\AutoProperty\bin\Debug\AutoProperty.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\bin\Debug\AutoProperty.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\bin\Debug\AutoProperty.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\bin\Debug\AutoProperty.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\obj\Debug\AutoProperty.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\obj\Debug\AutoProperty.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.3\Finish\ExpertDotNet\AutoProperty\obj\Debug\AutoProperty.pdb

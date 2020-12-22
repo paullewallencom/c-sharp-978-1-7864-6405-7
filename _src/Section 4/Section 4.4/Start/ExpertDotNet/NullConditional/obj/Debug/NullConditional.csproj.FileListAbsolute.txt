@@ -1,0 +1,6 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\bin\Debug\NullConditional.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\bin\Debug\NullConditional.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\bin\Debug\NullConditional.pdb
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\obj\Debug\NullConditional.csprojResolveAssemblyReference.cache
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\obj\Debug\NullConditional.exe
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.4\Start\ExpertDotNet\NullConditional\obj\Debug\NullConditional.pdb

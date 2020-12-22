@@ -1,0 +1,2 @@
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.5\Start\ExpertDotNet\StringInterpolation\bin\Debug\StringInterpolation.exe.config
+C:\Users\Prestige-Mac\Dropbox\PackTPub\Exercises\Section 4\Section 4.5\Finish\ExpertDotNet\StringInterpolation\bin\Debug\StringInterpolation.exe.config
